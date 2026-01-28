@@ -111,14 +111,15 @@ Estudantes de Graduação e Pós-graduação em Meteorologia da Universidade Fed
 ## 📁 Material do Curso
 
 Todo o material está disponível no GitHub:  
-[https://github.com/evmpython/Minicurso_UFCG_nov_2025](https://github.com/evmpython/Minicurso_UFCG_nov_2025)
+[https://github.com/evmpython/Minicurso_UFCG_nov_2025](https://github.com/evmpython/Minicurso_UFMS_mar_2026)
 
 ---
 
 ## 🏫 Instituições Envolvidas
 
 - **Universidade Federal de Itajubá (UNIFEI)**
-- **Universidade Federal de Campina Grande (UFCG)**
+- **Universidade Federal do Mato Grosso do Sul (UFMS)**
+- **Centro de Monitoramento do Tempo e do Clima do Estado do MS (CEMTEC)**
 
 ---
 
