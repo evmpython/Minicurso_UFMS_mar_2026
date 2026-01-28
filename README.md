@@ -12,7 +12,7 @@
 ## 📋 Informações Gerais
 
 - **Formato:** Presencial 
-- **Data:** 10, 11, e 12 de março de 2026
+- **Data:** 10, 11 e 12 de março de 2026
 - **Horário:** 08:30 às 17:00 horas (com 1h30min de intervalo de almoço)
 - **Local:** Universidade Federal do Mato Grosso do Sul (UFMS)
 - **Vagas disponíveis:** Presencial - 40 vagas
