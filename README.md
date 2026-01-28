@@ -110,8 +110,6 @@ Estudantes de Graduação e Pós-graduação da Universidade Federal do Mato Gro
   > 1. Possuir uma conta de E-mail do Gmail
   > 2. Possuir uma conta no Google Earth Engine: https://earthengine.google.com/. Veja vídeo explicando como criar uma conta no GEE e a ID do projeto: https://www.youtube.com/watch?v=RuKTG0rHHSw&t=6s 
 
-
-
 ---
 > [!TIP]
 > Conhecimento básico de Python (desejável)
@@ -136,10 +134,13 @@ O repositório do curso possui as seguintes informações/dados:
    > - **04_logos:** logos/figura utilizadas dentros dos códigos
  
 - **Códigos:**
-   > **AULA_1_Plotagem_de_Imagens_de_Satelite.ipynb:**
-
-
-
+   > - **AULA_1_Plotagem_de_Imagens_de_Satelite.ipynb:**
+   > - **AULA_2_Relampagos.ipynb:**
+   > - **Aula_3_Estacoes_Meteorologicas.ipynb:**
+   > - **AULA_4_Indices_de_Vegetacao_com_Google_Earth_Engine.ipynb:**
+   > - **AULA_1_Plotagem_de_Imagens_de_Satelite.ipynb:**
+   > - **AULA_1_Plotagem_de_Imagens_de_Satelite.ipynb:**
+   > - **AULA_1_Plotagem_de_Imagens_de_Satelite.ipynb:**
 ---
 
 ## 🏫 Instituições Envolvidas
