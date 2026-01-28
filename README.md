@@ -1,7 +1,7 @@
 
 ---
 
-# Minicurso: *Processamento e Visualização de Imagens de Satélite, Relâmpagos, Dados de Precipitação, Queimadas e Índices de Vegetação com Python (PyVisSat)*
+# Minicurso: *Processamento e Visualização de Imagens de Satélite, Relâmpagos, Dados de Precipitação, Índices de Vegetação com Python e Queimadas (PyVisSat)*
 ---
 
 ### Ministrante: Prof. Dr. Enrique Vieira Mattos
