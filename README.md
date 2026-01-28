@@ -54,7 +54,7 @@
 - Fundamentos dos Dados de Relâmpagos, Download, Processamento e Visualização: Dados a cada 20s da NOAA
 - Fundamentos dos Dados de Relâmpagos, Download, Processamento e Visualização: Dados a cada 5min do INPE
 - Combinação de Imagens de Satélite e Relâmpagos do GLM
-- Evolução Temporal da Temperatura de Brilho do IR e Flashes 
+- Evolução Temporal da Temperatura de Brilho do IR e Relâmpagos 
 
 ### Aula 3: Processando e Visualizando Dados de Estações Meteorológicas
 -	Conhecendo os Dados das Estações Meteorológicas do INMET
