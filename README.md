@@ -41,17 +41,22 @@
 
 ## 🛰️ Conteúdo Programático
 
-### Aula 1: Plotagem de Imagens de Satélite
+### Aula 1: Processamento e Visualização de Imagens de Satélite
 - Projeção Satélite em Níveis de Cinza
 - Projeção Satélite em T-Realçada
 - Projeção Retangular em Níveis de Cinza
 - Projeção Retangular em T-Realçada
 - Plotando Várias Imagens do IR e Criando Animação
 - Plotando Painel de Imagens
-- Projeção Satélite da Imagem Realçada + Total de Flashes do GLM
-- Evolução Temporal da Temperatura de Brilho do IR e Flashes GLM
 
-### Aula 2: Mapas e Séries Temporais de Precipitação Estimada por Satélite
+### Aula 2: Analisando Dados de Relâmpagos Estimados por Satélite
+- Fundamento dos Dados de Relâmpagos, Downloade, Precessamento e Visualização
+- Combinação de Imagens de Satélite e Relâmpagos do GLM
+- Evolução Temporal da Temperatura de Brilho do IR e Flashes 
+
+### Aula 3: Processando e Visualizando Dados de Estações Meteorológicas
+
+### Aula 4: Mapas e Séries Temporais de Precipitação Estimada por Satélite
 -	Conhecendo o produto MERGE 
 -	Precipitação por Hora
 -	Precipitação por Dia
@@ -70,7 +75,7 @@
    > 6. Série temporal anual
    > 7. Série temporal da anomalia anual
  
-### Aula 3: Índices de Vegetação com Google Earth Engine
+### Aula 5: Índices de Vegetação com Google Earth Engine
 -	Mapas Interativos com Geemap
 -	Conhecimentos Básicos de Índices Espectrais
 -	Carregando os Dados no Google Earth Engine (GEE)
@@ -80,12 +85,7 @@
 -  Séries Temporais
 -  Índice de Vegetação com o Satélite Sentinel-2	
 
-### Aula Bônus: Trabalhando com Dados do ERA5 na Nuvem
--	Acesso aos Dados do ERA5 em Nuvem
--  Variáveis e Níveis Disponíveis
--	Aprendendo a Plotar Alguns Mapas Simples
--	Aprendendo a Plotar Série Temporal para uma Localidade
--  Mapa de Temperatura Mínima e Máxima Diária
+### Aula 6: Monitoramento de Queimadas por Satélite
 
 ---
 
