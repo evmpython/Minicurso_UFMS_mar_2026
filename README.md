@@ -137,7 +137,7 @@ O repositório do curso possui as seguintes diretórios e códigos python:
    > - **AULA_1_Plotagem_de_Imagens_de_Satelite.ipynb:**
    > - **AULA_2_Relampagos.ipynb:**
    > - **Aula_3_Estacoes_Meteorologicas.ipynb:**
-   > - **AULA_4_Mapas_e_Series_Temporais_de_Precipitacao_Estimada_por_Satelite:**
+   > - **AULA_4_Mapas_e_Series_Temporais_de_Precipitacao_Estimada_por_Satelite.ipynb:**
    > - **AULA_5_Indices_de_Vegetacao_com_Google_Earth_Engine.ipynb:**
    > - **AULA_6_Queimadas.ipynb:**
 ---
