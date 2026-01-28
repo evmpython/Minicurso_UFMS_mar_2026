@@ -35,7 +35,7 @@
 | 11/março | 08:30-12:00 | 3h30min | **AULA 3:** Processando e Visualizando Dados de Estações Meteorológicas |
 | 11/março | 13:30-17:00 | 3h30min | **AULA 4:** Mapas e Séries Temporais de Precipitação Estimada por Satélite |
 | 12/março | 08:30-12:00 | 3h30min | **AULA 5:** Índices de Vegetação com Google Earth Engine |
-| 12/março | 13:30-17:00 | 3h30min | **AULA 6:** Monitoramento em Tempo Quase-Real de Queimadas por Satélite |
+| 12/março | 13:30-17:00 | 3h30min | **AULA 6:** Monitoramento de Queimadas por Satélite |
 
 ---
 
