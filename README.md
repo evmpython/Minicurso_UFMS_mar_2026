@@ -135,11 +135,11 @@ O repositório do curso possui as seguintes diretórios e códigos python:
  
 - **Códigos:**
    > - **AULA_1_Plotagem_de_Imagens_de_Satelite.ipynb:** código python da Aula 01 - Processamento e Visualização de Imagens de Satélite
-   > - **AULA_2_Relampagos.ipynb:**
-   > - **Aula_3_Estacoes_Meteorologicas.ipynb:**
-   > - **AULA_4_Mapas_e_Series_Temporais_de_Precipitacao_Estimada_por_Satelite.ipynb:**
-   > - **AULA_5_Indices_de_Vegetacao_com_Google_Earth_Engine.ipynb:**
-   > - **AULA_6_Queimadas.ipynb:**
+   > - **AULA_2_Relampagos.ipynb:** código python da Aula 02 - Analisando Dados de Relâmpagos Estimados por Satélite
+   > - **Aula_3_Estacoes_Meteorologicas.ipynb:** código python da Aula 03 - Processando e Visualizando Dados de Estações Meteorológicas
+   > - **AULA_4_Mapas_e_Series_Temporais_de_Precipitacao_Estimada_por_Satelite.ipynb:** código python da Aula 04 - Mapas e Séries Temporais de Precipitação Estimada por Satélite 
+   > - **AULA_5_Indices_de_Vegetacao_com_Google_Earth_Engine.ipynb:** código python da Aula 05 - Índices de Vegetação com Google Earth Engine 
+   > - **AULA_6_Queimadas.ipynb:** código python da Aula 06 - Monitoramento de Queimadas por Satélite 
 ---
 
 ## 🏫 Instituições Envolvidas
