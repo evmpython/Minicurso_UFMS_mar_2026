@@ -31,12 +31,14 @@
 
 | Data | Horário | Carga Horária | Aulas |
 |------|---------|:-------------:|--------|
-| 10/março | 08:30-12:00 | 3h30min | **AULA 1:** Processamento e Visualização de Imagens de Satélite |
-| 10/março | 13:30-17:00 | 3h30min | **AULA 2:** Analisando Dados de Relâmpagos Estimados por Satélite |
+| 10/março | 09:00-12:00 | 3h30min | **AULA 1:** Processamento e Visualização de Imagens de Satélite |
+| 10/março | 13:30-17:30 | 3h30min | **AULA 2:** Analisando Dados de Relâmpagos Estimados por Satélite |
+
 | 11/março | 08:30-12:00 | 3h30min | **AULA 3:** Processando e Visualizando Dados de Estações Meteorológicas |
 | 11/março | 13:30-17:00 | 3h30min | **AULA 4:** Mapas e Séries Temporais de Precipitação Estimada por Satélite |
-| 12/março | 08:30-12:00 | 3h30min | **AULA 5:** Índices de Vegetação com Google Earth Engine |
-| 12/março | 13:30-17:00 | 3h30min | **AULA 6:** Monitoramento de Queimadas por Satélite |
+
+| 12/março | 09:00-12:00 | 3h30min | **AULA 5:** Índices de Vegetação com Google Earth Engine |
+| 12/março | 13:30-17:30 | 3h30min | **AULA 6:** Monitoramento de Queimadas por Satélite |
 
 ---
 
