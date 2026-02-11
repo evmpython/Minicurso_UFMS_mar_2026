@@ -1,4 +1,4 @@
-![Texto alternativo](https://raw.githubusercontent.com/evmpython/Minicurso_UFMS_CEMTEC_marco_2026/main/04_logos/logo_minicurso.png)
+![Texto alternativo](https://raw.githubusercontent.com/evmpython/Minicurso_UFMS_SEMADESC_marco_2026/main/04_logos/logo_minicurso.png)
 ---
 
 # 💻 Minicurso: 
@@ -122,7 +122,7 @@ Estudantes de Graduação e Pós-Graduação da Universidade Federal do Mato Gro
 ## 📁 Material do Curso
 
 Todo o material está disponível no GitHub:  
-https://github.com/evmpython/Minicurso_UFMS_CEMTEC_marco_2026
+https://github.com/evmpython/Minicurso_UFMS_SEMADESC_marco_2026
 
 ---
 
