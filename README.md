@@ -61,7 +61,6 @@
 ### Aula 3: Processando e Visualizando Dados de Estações Meteorológicas
 -	Conhecendo os Dados das Estações Meteorológicas do INMET
 -	Mapa Interativo com Estações Meteorológicas
--	Climograma
 -	Série Temporal Horária
 -	Série Temporal Diária
 -	Série Temporal Mensal
@@ -88,7 +87,7 @@
  
 ### Aula 5: Índices de Vegetação com Google Earth Engine
 -	Mapas Interativos com Geemap
--	Conhecimentos os Índices Espectrais
+-	Conhecimendo os Índices Espectrais
 -	Conhecendo os Dados de Vegetação do Satélite TERRA
 -	Plotando Mapa Interativo com Dados - Satélite TERRA
 -	Fazendo animações - Satélite TERRA
@@ -99,9 +98,12 @@
 -	Biblioteca Spyndex para Cálculo de Índices Espectrais
 
 ### Aula 6: Monitoramento de Queimadas por Satélite
--  Mapas Interativos com Leafmap
--  Mapa de Densidade de Focos de Calor
--  Séries Temporais de Focos de Calor
+-  Conhecendo e Acessando os Dados de Focos de Calor Fornecidos pelo INPE
+-  Mapas Interativos de Focos de Calor
+-  Mapa de Acumulado de Focos de Calor
+-  Mapa de Acumulado e Anomalia de Focos de Calor '0. Séries Temporais de Focos de Calor
+-  Risco de Fogo Observado
+-  Risco de Fogo Previsto
 ---
 
 ## 🎓 Público-Alvo
